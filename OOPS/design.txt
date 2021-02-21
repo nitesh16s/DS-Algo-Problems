@@ -1,0 +1,15 @@
+Parking Lots = 10k to 30k spots
+4 Entrances
+4 Exits
+Ticket
+parking spot should be nearest from entrances
+limit 
+types: 
+    handicapped
+    compact
+    large
+    bikes
+rates --hourly
+cash and credit cards
+monitoring system
+available parking spots current time for type of vehicle

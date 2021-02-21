@@ -1,0 +1,1 @@
+rsync -avL --progress -e "ssh -i /home/nitesh/ubuntu.pem" \ ~/home/nitesh/Codes/Python/Django/MyProjects/Old/blogs \ ubuntu@18.194.247.191:~/

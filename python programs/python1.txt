@@ -1,0 +1,8 @@
+b"        # Don't use MyISAM in MySQL. It doesn't support ON DELETE CASCADE.\r\n"
+b"                                               ondelete = 'CASCADE',\r\n"
+b"                                               onupdate = 'CASCADE'),\r\n"
+b"        # Don't use MyISAM in MySQL. It doesn't support ON DELETE CASCADE.\r\n"
+b"                                               ondelete = 'CASCADE',\r\n"
+b"                                               onupdate = 'CASCADE'),\r\n"
+b'WM_MDICASCADE                        = 0x227\r\n'
+b'WM_MDICASCADE                        = 0x227\r\n'

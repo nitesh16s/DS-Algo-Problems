@@ -1,0 +1,203 @@
+502  history
+501  subl myfile.txt
+500  python3
+499  clear
+498  clear
+497  python3
+496  clear
+495  clear
+494  clear
+493  python3
+492  ssh nitesh@167.71.82.133
+491  nitesh@167.71.82.133
+490  python3 manage.py runserver
+489  python3 manage.py migrate
+488  python3 manage.py makemigrations
+487  python3 manage.py makemigrations
+486  python3 manage.py runserver
+485  python3 manage.py migrate
+484  python3 manage.py migraye
+483  python3 manage.py makemigrations
+482  pip3 install django-crispy-forms
+481  python3 manage.py runserver
+480  python3 manage.py runserver
+479  python3 manage.py migrate
+478  pip3 install django-crispy-forms
+477  export ftp_proxy="ftp://edcguest:edcguest@172.31.102.29:3128/";
+476  export https_proxy="https://edcguest:edcguest@172.31.102.29:3128/";
+475  export http_proxy="http://edcguest:edcguest@172.31.102.29:3128/";
+474  pip3 install django-crispy-forms
+473  python3 manage.py runserver
+472  python3 manage.py migrate
+471  python3 manage.py makemigrations
+470  python3 manage.py runserver
+469  python3 manage.py migrate
+468  python3 manage.py makemigrations
+467  python3 manage.py runserver
+466  python3 manage.py createsuperuser
+465  python3 manage.py runserver
+464  python3 manage.py migrate
+463  python3 manage.py makemigrations
+462  python3 manage.py runserver
+461  python3 manage.py migrate
+460  python3 manage.py makemigrations
+459  python3 manage.py makemigrations
+458  python3 manage.py makemigrations
+457  python3 manage.py runserver
+456  python3 manage.py runserver
+455  python3 manage.py migrate
+454  python3 manage.py migraye
+453  python3 manage.py makemigrations
+452  python3 manage.py runserver
+451  python3 manage.py createsuperuser
+450  python3 manage.py runserver
+449  python3 manage.py migrate
+448  python3 manage.py makemigrations
+447  source venv/bin/activate
+446  sou
+445  python3 manage.py migrate
+444  python3 manage.py makemigrations
+443  python3 manage.py runserver
+442  python3 manage.py migrate
+441  python3 manage.py makemigrations
+440  python3 manage.py makemigrations
+439  python3 manage.py makemigrations
+438  python3 manage.py migrate
+437  python3 manage.py makemigrations
+436  python3 manage.py migrate
+435  source venv/bin/activate
+434  python3 manage.py makemigrations
+433  python3 manage.py migrate
+432  clear
+431  clear
+430  python3 manage.py migrate
+429  python3 manage.py makemigrations
+428  python3 manage.py runserver
+427  python3 manage.py runserver
+426  python3 manage.py migrate
+425  python3 manage.py makemigrations
+424  clear
+423  clear
+422  python3 manage.py makemigrations
+421  python3 manage.py makemigrations
+420  python3 manage.py runserver
+419  python3 manage.py migrate
+418  python3 manage.py makemigrations
+417  python3 manage.py migrate
+416  python3 manage.py runserver
+415  python3 manage.py migrate
+414  python3 manage.py makemigrations
+413  python3 manage.py migrate
+412  python3 manage.py makemigrations
+411  python3 manage.py makemigrations
+410  python3 manage.py runserver
+409  python3 manage.py migrate
+408  python3 manage.py makemigrations
+407  python3 manage.py runserver
+406  python3 manage.py migrate
+405  python3 manage.py makemigrations
+404  python3 manage.py runserver
+403  python3 manage.py migrate
+402  python3 manage.py makemigrations
+401  python3 manage.py migrate
+400  python3 manage.py runserver
+399  python3 manage.py runserver
+398  export ftp_proxy="ftp://edcguest:edcguest@172.31.102.29:3128/";
+397  export https_proxy="https://edcguest:edcguest@172.31.102.29:3128/";
+396  export http_proxy="http://edcguest:edcguest@172.31.102.29:3128/";
+395  python3 manage.py runserver
+394  source venv/bin/activate
+393  subl profile.html
+392  subl roles.html
+391  subl departments.html
+390  python3 manage.py runserver
+389  python3 manage.py startapp main
+388  python3 manage.py runserver
+387  python3 manage.py migrate
+386  python3 manage.py makemigrations
+385  python3 manage.py migrate
+384  python3 manage.py migrate
+383  python3 manage.py migrate
+382  python3 manage.py migrate
+381  python3 manage.py migrate
+380  python3 manage.py migrate
+379  python3 manage.py migrate
+378  python3 manage.py migrate
+377  python3 manage.py migrate
+376  python3 manage.py migrate
+375  python3 manage.py migrate
+374  pip3 install django-allauth
+373  pip3 install django-allauth
+372  python3 manage.py migrate
+371  python3 manage.py migrate
+370  python3 manage.py migrate
+369  python3 manage.py migrate
+368  ls
+367  cd ..
+366  subl urls.py 
+365  subl settings.py 
+364  ls
+363  cd management/
+362  ls
+361  ls
+360  l
+359  python3 manage.py startapp departments
+358  python3 manage.py startapp roles
+357  python3 manage.py startapp users
+356  ls
+355  clear
+354  clear
+353  python3 manage.py runserver
+352  pyton3 manage.py runserver
+351  ls
+350  clear
+349  clear
+348  pip3 install pillow
+347  pip3 install django-allauth
+346  pip3 install django
+345  pip3 install django
+344  export ftp_proxy="ftp://edcguest:edcguest@172.31.102.29:3128/";
+343  export https_proxy="https://edcguest:edcguest@172.31.102.29:3128/";
+342  export http_proxy="http://edcguest:edcguest@172.31.102.29:3128/";
+341  pip3 install django
+340  python3 manage.py runserver
+339  source venv/bin/activate
+338  ls
+337  virtualenv venv
+336  subl index.html
+335  ls
+334  ls
+333  cd management/
+332  cd ma
+331  django-admin startproject management
+330  python3 manage.py runserver
+329  cd ..
+328  cd users/
+327  python3 manage.py startapp users
+326  python3 manage.py runserver
+325  python3 manage.py 
+324  ls
+323  cd management/
+322  ls
+321  django-admin startproject management
+320  ls
+319  pip3 freeze > requirements.txt
+318  pip3 install -r requirements.txt 
+317  export ftp_proxy="ftp://edcguest:edcguest@172.31.102.29:3128/";
+316  export https_proxy="https://edcguest:edcguest@172.31.102.29:3128/";
+315  export http_proxy="http://edcguest:edcguest@172.31.102.29:3128/";
+314  pip3 install -r requirements.txt 
+313  subl requirements.txt 
+312  source venv/bin/activate
+311  subl requirements.txt 
+310  pip3 freeze > requirements.txt
+309  ls
+308  virtualenv --python=python3 venv
+307  cd management/
+306  mkdir management
+305  python3 run.py 
+304  source venv/bin/activate
+303  python3 run.py 
+302  source venv/bin/activate
+301  clear
+300  clear

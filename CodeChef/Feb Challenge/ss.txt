@@ -1,0 +1,12 @@
+('aaa', 'abb') => aaa, abb 0
+('aaa', 'bab') => baa, aab 1
+('aaa', 'bba') => baa, aba 1
+('abb', 'aaa') => abb, aaa 0
+('abb', 'bab') => bbb, aab 1
+('abb', 'bba') => bbb, aba 1
+('bab', 'aaa') => aab, baa 1
+('bab', 'abb') => aab, bbb 1
+('bab', 'bba') => bab, bba 0
+('bba', 'aaa') => aba, baa 1
+('bba', 'abb') => aba, bbb 1
+('bba', 'bab') => bba, bab 0
